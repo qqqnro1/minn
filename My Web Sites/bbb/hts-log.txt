@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Dec 2023 22:30:01 at https://id.yugih5.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://id.yugih5.com/ -O1 "C:\My Web Sites\bbb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:30:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://id.yugih5.com/)
+22:30:42	Error: 	"Not Found" (404) at link https://id.yugih5.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+22:30:42	Error: 	"Not Found" (404) at link https://id.yugih5.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+22:30:42	Error: 	"Not Found" (404) at link https://id.yugih5.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+22:30:42	Error: 	"Not Found" (404) at link https://id.yugih5.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+22:30:43	Error: 	"Not Found" (404) at link https://id.yugih5.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 33 links scanned, 26 files written (32613761 bytes overall) [32431309 bytes received at 772174 bytes/sec], 293696 bytes transferred using HTTP compression in 4 files, ratio 32%, 3.0 requests per connection
+(6 errors, 0 warnings, 0 messages)
